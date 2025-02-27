@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FancyScreen</string>
+    <string name="emaillabel">name</string>
+    <string name="extlabel">name</string>
+    <string name="deptlabel">name</string>
+    <string name="suplabel">name</string>
+    <string name="drlabel">name</string>
+
 </resources>
