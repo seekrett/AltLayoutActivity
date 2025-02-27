@@ -3,7 +3,7 @@
     <string name="app_name">FancyScreen</string>
     <string name="emaillabel">Email</string>
     <string name="extlabel">Extension</string>
-    <string name="deptlabel">Department</string>
-    <string name="suplabel">Supervisor</string>
-    <string name="drlabel">Direct Reports</string>
+    <string name="deptlabel">Département</string>
+    <string name="suplabel">Superviseuse</string>
+    <string name="drlabel">Rapports directs</string>
 </resources>
